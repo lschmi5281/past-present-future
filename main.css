@@ -1,0 +1,69 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 7px;
+  background-color: #87CEFA;
+  line-height: 200%;
+}
+
+section {
+  clear:both;
+}
+
+h1 {
+  font-family: "PT Sans Captions", sans-serif;
+  font-size: 36px;
+  font-weight: 550;
+  border-style: double;
+  border-color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+h3 {
+  font-family: "Taviraj", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+a:link {
+    color: #00284d;
+}
+
+a:visited {
+    color: #004f99;
+}
+
+a:hover {
+    color: #004280;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #0069cc;
+}
